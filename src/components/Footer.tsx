@@ -2,7 +2,7 @@ import { LogoRocket } from "./LogoRocket";
 
 export function Footer() {
     return (
-        <div className="max-w-[1100px] px-6 pb-5 pt-12 mx-auto">
+        <div className="px-6 pb-5 mt-12 mx-auto bg-gray-900">
             <footer className="pt-6 flex items-center justify-between border-t border-gray-600">
                 <div className="flex items-center gap-6">
                     <LogoRocket />
